@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **osama.elkhuriby@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AOHouluqtZb1rGpzfjiD8bePpy-_Tk9f/view?usp=sharing](https://drive.google.com/file/d/1AOHouluqtZb1rGpzfjiD8bePpy-_Tk9f/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jb90eNq-Zb1miMUTTfyJ62Cv4Ij7gX_N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
