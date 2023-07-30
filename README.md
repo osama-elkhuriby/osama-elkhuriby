@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Osama Elkhuriby</h1>
-<h3 align="center">A passionate Mobile developer from Egypt</h3>
+<h3 align="center">A passionate Embedded system engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-elkhuriby&label=Profile%20views&color=0e75b6&style=flat" alt="osama-elkhuriby" /> </p>
 
 - 🔭 I’m currently working on [Doctor-Assistant](https://github.com/osama-elkhuriby/Doctor-Assistant)
 
-- 🌱 I’m currently learning **Machine Learning, AI**
+- 🌱 I’m currently learning **Embedded systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/osama-elkhuriby](https://github.com/osama-elkhuriby)
-
-- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **osama.elkhuriby@gmail.com**
 
