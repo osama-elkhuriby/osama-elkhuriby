@@ -54,8 +54,8 @@ AI medical assistant using RAG and LLM reasoning
 
 ---
 
-## 📄 Resume
-👉 https://drive.google.com/file/d/1jb90eNq-Zb1miMUTTfyJ62Cv4Ij7gX_N/view?usp=sharing
+## 📄 CV
+👉 https://drive.google.com/file/d/1A-HRWPSN50SipiEgjb8afPAOh_T-rz1g/view?usp=sharing
 
 ---
 
