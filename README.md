@@ -1,67 +1,75 @@
-<h1 align="center">Osama Elkhuriby</h1>
-<h3 align="center">AI Engineer | RAG & GenAI Developer</h3>
+<h1 align="center">Hi 👋, I'm Osama Elkhuriby</h1>
+<h3 align="center">AI Engineer | GenAI & RAG Systems Developer</h3>
 
 <p align="center">
-Engineer focused on building intelligent AI systems and scalable backend applications.
-Specialized in Retrieval-Augmented Generation and NLP-driven products.
+Building intelligent AI systems using LLMs, NLP, and scalable backend architectures.
+</p>
+
+<p align="center">
+<a href="https://github.com/osama-elkhuriby">GitHub</a> •
+<a href="https://linkedin.com/in/osama-elkhuriby">LinkedIn</a> •
+<a href="mailto:osama.elkhuriby@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 AI & Backend Engineer working on production-ready GenAI systems
-- 🔬 Strong experience with **RAG pipelines, NLP, and LLM-powered applications**
-- ⚡ Background in embedded systems and software engineering
-- 🎯 Passionate about building real-world AI products
+
+- 🤖 AI Engineer focused on **Generative AI & LLM applications**
+- 🔎 Experienced in building **RAG pipelines**
+- ⚙️ Backend developer using **FastAPI & Flask**
+- 🧠 Interested in **AI products, NLP systems, and intelligent search**
+- 📚 Currently learning **Docker & advanced ML deployment**
 
 ---
 
 ## 🏗️ Featured Project
-- 🔭 **Doctor Assistant**  
-AI medical assistant using RAG and LLM reasoning  
-👉 https://github.com/osama-elkhuriby/Doctor-Assistant
+
+### 🩺 Doctor Assistant
+AI-powered medical assistant using **Retrieval-Augmented Generation (RAG)** and **LLM reasoning**.
+
+🔗 Project  
+https://github.com/osama-elkhuriby/Doctor-Assistant
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Tech Stack
 
-### AI Engineering
-- Retrieval-Augmented Generation (RAG)
-- NLP Systems
-- LLM Integration
-- TensorFlow
+<p align="center">
 
-### Backend Engineering
-- FastAPI
-- Flask
-- REST APIs
-- Microservices
-- MySQL & SQLite
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,flask,mysql,sqlite,linux,git,github,firebase,docker,figma,flutter,arduino"/>
 
-### Systems & Tools
-- Linux
-- Git
-- Postman
-- Firebase
+</p>
 
 ---
 
-## 📝 Additional Skills 
-- Embedded Systems & Arduino
-- Flutter & Mobile Development
-- Basic UI/UX & Figma
-- Docker (learning)
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=osama-elkhuriby&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-elkhuriby&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📄 CV
-👉 https://drive.google.com/file/d/1A-HRWPSN50SipiEgjb8afPAOh_T-rz1g/view?usp=sharing
+## 📄 Resume
+
+📥 Download CV  
+https://drive.google.com/file/d/1A-HRWPSN50SipiEgjb8afPAOh_T-rz1g/view
 
 ---
 
 ## 📫 Contact
-- Email: **osama.elkhuriby@gmail.com**
-- GitHub: https://github.com/osama-elkhuriby
-- LinkedIn: https://linkedin.com/in/osama-elkhuriby
+
+📧 **Email:** osama.elkhuriby@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/osama-elkhuriby  
+💻 **GitHub:** https://github.com/osama-elkhuriby
 
 ---
+
+<p align="center">
+⭐ Building AI products that solve real-world problems
+</p>
