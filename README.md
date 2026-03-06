@@ -1,5 +1,5 @@
 <h1 align="center">Osama Elkhuriby</h1>
-<h3 align="center">AI & Backend Engineer | RAG & GenAI Developer</h3>
+<h3 align="center">AI Engineer | RAG & GenAI Developer</h3>
 
 <p align="center">
 Engineer focused on building intelligent AI systems and scalable backend applications.
